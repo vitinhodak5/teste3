@@ -1,0 +1,29 @@
+body{
+    background-image: url(fundo.png);
+   
+}
+#principal{
+    width: 900px;
+}
+#menu{
+    background-color: #c5c5b2;
+    padding: 18px;
+    margin: 0;
+}
+a{
+   margin: 10px;
+   color:#4b566a;
+   text-decoration: none;
+   font-weight: bold;
+   padding: 5px;
+  
+}
+#conteudo{
+    background-color: #e8e8d9;
+}
+#footer{
+    text-align: center;
+}
+.img-campanha {
+    border: 10px solid #c3ceae;
+}
